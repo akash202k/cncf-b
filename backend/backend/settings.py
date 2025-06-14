@@ -156,4 +156,6 @@ CSRF_TRUSTED_ORIGINS = [
     "http://dayxcode.com",
     "http://127.0.0.1:8000", 
     "http://localhost:8000",
+    "https://akashpawar.com",
+    "http://akashpawar.com"
 ]
